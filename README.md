@@ -12,7 +12,7 @@ This project aims to predict the presence of COVID-19 based on user-reported sym
 
 ---
 
-## 📊 Dataset Description
+## 📁 Dataset Description
 
 The dataset includes common COVID-19 symptoms and an indicator of infection status.
 
@@ -59,19 +59,9 @@ The following models were implemented and compared:
 
 Each model was evaluated using:
 
-- Accuracy Score
+- Classification Report
 - Confusion Matrix
-- Precision, Recall, and F1-Score
 - ROC Curve and AUC Score
-
----
-
-## 📊 Visualizations
-
-- Count Plots for Feature Distributions
-- Confusion Matrix Heatmaps
-- Feature Importance Plot (Random Forest)
-- ROC Curves for Model Comparison
 
 ---
 
